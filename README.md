@@ -1,6 +1,13 @@
-# 💫 About Me:
+## 💫 About Me
 
-# Hi, I'm Irvan 👋<br><br>Fullstack Web Developer with a strong interest in backend architecture, authentication, and scalable systems.<br>Currently focusing on NestJS, TypeScript, and modern web development.<br><br>- Grade 12 student with a strong passion for software engineering <br>- Enjoy building clean, maintainable backend systems <br>- Believe in understanding _why_ before using tools or frameworks <br>- Actively learning system design, authentication, and authorization
+Hi, I'm **Irvan** 👋  
+Tech Enthusiast with a strong interest in backend architecture, authentication, and scalable systems.  
+Currently focusing on **NestJS**, **TypeScript**, and modern web development.
+
+- Grade 12 student with a strong passion for software engineering
+- Enjoy building clean, maintainable backend systems
+- Believe in understanding _why_ before using tools or frameworks
+- Actively learning system design, authentication, and authorization
 
 ## 🌐 Socials:
 
