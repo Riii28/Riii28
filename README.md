@@ -4,7 +4,6 @@ Hi, I'm **Irvan** 👋
 Tech enthusiast with a strong interest in backend architecture, authentication, and scalable systems.  
 Currently focusing on **NestJS**, **TypeScript**, and modern web development.
 
--  Grade 12 student with a strong passion for software engineering
 -  Enjoy building clean, maintainable backend systems
 -  Believe in understanding _why_ before using tools or frameworks
 -  Actively learning system design, authentication, and authorization
